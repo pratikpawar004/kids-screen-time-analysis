@@ -35,7 +35,7 @@ It highlights the **educational-to-recreational ratio**, **average screen time h
 ---
 
 ## 📷 Dashboard Preview  
-(Add screenshots of your Power BI dashboard here – e.g., KPI cards, charts, and ratios.)  
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7aa01721-d311-4568-9dbf-3d7ff60bb793" />
 
 ---
 
