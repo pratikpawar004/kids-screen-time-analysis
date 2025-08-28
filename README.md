@@ -58,6 +58,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
+## Author
+## Pratik Pawar
+B.Tech Computer Engineering Student
+---
+
 ## 📄 License  
 This project is licensed under the **MIT License** – feel free to use and modify.  
 
